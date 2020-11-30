@@ -1,0 +1,35 @@
+{
+  "activityId": "1064",
+  "itemsTemp": [
+    {
+      "activityItemId": "2905",
+      "shoesSize": [ "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "8", "8.5", "9", "9.5", "10", "8", "8.5", "9", "9.5", "8.5", "9", "9.5", "9", "9.5" ],
+      "activityShopId": "16386"
+    },
+    {
+      "activityItemId": "2906",
+      "shoesSize": [ "3.5Y", "4Y", "4.5Y", "5Y", "5.5Y", "6Y", "6.5Y", "7Y", "4Y", "4.5Y", "5Y", "5.5Y", "6Y", "6.5Y", "7Y", "4Y", "4.5Y", "5Y", "5.5Y", "6Y", "5Y", "5Y" ],
+      "activityShopId": "16414"
+    },
+    {
+      "activityItemId": "2909",
+      "shoesSize": [ "4", "4.5", "5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11" ],
+      "activityShopId": "16430"
+    }
+  ],
+  "checkItemIds": [2905, 2906, 2909],
+  "basePath": "https://wx.yysports.com/limitelottery/",
+  "basePathBJ": "https://limit.yysports.com/limitelotterybeijing/",
+  "syncCount": 1,
+  "useCount": 10,
+  "checkUsersPath": "temporary/regist_bj.txt",
+  "ipPool": "hunbo",
+  "codes": [
+    320201,
+    320202,
+    320203,
+    320204,
+    320205,
+    320206
+  ]
+}

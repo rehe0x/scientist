@@ -1,0 +1,54 @@
+{
+  "wandou": {
+    "username": "luciferclc@foxmail.com",
+    "password": "Ln222555",
+    "tunnel_proxy": "proxy.wandouip.com:8090",
+    "app_key": "bc779ed07b6b7b19d846f58d1060d7d9",
+    "app_secret": "f9bad898531af73d936a609c3a3c72d9",
+    "max": "100"
+  },
+  "hunbo": {
+    "username": "nolan",
+    "password": "ln222555",
+    "order_no": "ZF20204627493NGNGF",
+    "secret": "4b500f58b607447da2e0d4fdef61445f",
+    "tunnel_proxy": null,
+    "max": "200"
+  },
+  "ape": {
+    "username": "15311972788",
+    "password": "ln222555",
+    "tunnel_proxy": "forward.apeyun.com:9082",
+    "app_id": "2020102300001321054",
+    "secret": "hCqtDvClZsiJwTAh",
+    "max": "50"
+  },
+  "kuai": {
+    "username": "guoanzjc@gmail.com",
+    "password": "ln222555",
+    "order_id": "960484471307065",
+    "api_key": "z0k6s0qj6b1x3eg303pizgl8bijsd3mw",
+    "user_name": "guoanzjc",
+    "pass_word": "f50pdz0n",
+    "tunnel_proxy": null,
+    "max": "200"
+  },
+  "xiaoxiang": {
+    "username": "15311972788",
+    "password": "ln222555",
+    "app_key": "642721302448590848",
+    "app_secret": "3yrPQ2D6",
+    "tunnel_proxy_short": "http-short.xiaoxiangdaili.com:10010",
+    "tunnel_proxy": "http-dynamic.xiaoxiangdaili.com:10030",
+    "max": "200"
+  },
+  "xun": {
+    "username": "18810799253",
+    "password": "ln222555",
+    "spider_id": "ee9fb735df0e45a18a0d16a43622ca9f",
+    "secret": "3a68dc5363954edc816bf03fc67b8d46",
+    "order_no": "YZ202011164094kR9qld",
+    "tunnel_proxy": "forward.xdaili.cn:80",
+    "max": "20"
+  }
+}
